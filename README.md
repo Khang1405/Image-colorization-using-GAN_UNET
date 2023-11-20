@@ -25,7 +25,8 @@ II. Step to Clone the GitHub repository and run the project
   - pip install -r requirements.txt
   4. Download the 'model.h5' file and save it to the project directory.
   5. Run app.py
-  6. Enjoy the game 
+  6. Enjoy the game
+  7. Here are the ouput: 
 
 III. Project members
 1. NGUYEN DINH THANH SAN

@@ -25,4 +25,19 @@ II. Step to Clone the GitHub repository and run the project
   - pip install -r requirements.txt
   4. Download the 'model.h5' file and save it to the project directory.
   5. Run app.py
-  6. Enjoy the game 
+  6. Enjoy the game
+  7. Here are the ouput: https://youtu.be/BBzpd4iq4vE
+
+III. Project members
+1. NGUYEN DINH THANH SAN
+- Major: Artificial Intelligence
+Contact:
+ + Linkedin: https://www.linkedin.com/in/thanh-san-a3b45b275
+ + Github: ThanhSan97
+ + Gmail: sannguyen0907@gmail.com - nguyendthanhsan@gmail.com
+2. NGUYEN HUYNH CHI KHANG
+- Major: Artificial Intelligence
+Contact:
+ + Linkedin: linkedin.com/in/nguyen-huynh-chi-khang-607a3926a
+ + Github: Khang1405
+ + Gmail: chikhang1235202@gmail.com
